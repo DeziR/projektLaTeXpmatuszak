@@ -1,1 +1,5 @@
 \contentsline {section}{\numberline {1}Wprowadzenie}{1}
+\contentsline {subsection}{\numberline {1.1}Co to E-Sport}{1}
+\contentsline {subsection}{\numberline {1.2}Historia E-Sportu}{1}
+\contentsline {section}{\numberline {2}Polska w E-Sporcie}{1}
+\contentsline {subsection}{\numberline {2.1}Counter Strike Global Offensive}{1}
