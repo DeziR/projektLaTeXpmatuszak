@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2016.2.10)  10 FEB 2016 19:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2016.2.10)  13 FEB 2016 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -344,10 +344,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--52
 [3]
 File: lol.eps Graphic file (type eps)
  <lol.eps>
-
-LaTeX Warning: Reference `eq:wzor1' on page 4 undefined on input line 104.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 106--123
 
  []
@@ -360,21 +356,28 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 124.
- [5] (./foo.aux)
 
-LaTeX Warning: There were undefined references.
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+[6] (./foo.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 1171 strings out of 493305
- 12381 string characters out of 6139897
+ 1174 strings out of 493305
+ 12389 string characters out of 6139897
  68434 words of memory out of 5000000
- 4640 multiletter control sequences out of 15000+600000
+ 4643 multiletter control sequences out of 15000+600000
  11766 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  25i,6n,19p,1663b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on foo.dvi (5 pages, 14384 bytes).
+Output written on foo.dvi (6 pages, 14580 bytes).
